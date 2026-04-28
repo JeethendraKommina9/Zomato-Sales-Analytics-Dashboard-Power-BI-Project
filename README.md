@@ -21,6 +21,9 @@ This project is a Power BI dashboard built to analyze sales performance and cust
 ### Drill Down Analysis
 ![Drill Down](drilldown_analysis.png)
 
+## Download Dashboard
+[Download Power BI File](https://docs.google.com/spreadsheets/d/1vh-3M638izvYakxYysm3bBM3sZXzpSW7R-LbTuB5PVk/edit?usp=sharing)
+
 ## Key Insights
 
 * Orders peak on Fridays, while weekend demand is lower
