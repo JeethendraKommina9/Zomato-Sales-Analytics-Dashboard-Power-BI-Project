@@ -10,6 +10,16 @@ This project is a Power BI dashboard built to analyze sales performance and cust
 * Customer Behavior Analysis (AOV trends, repeat customer rate, top customers)
 * Drill-down analysis by city and restaurant
 * Interactive filtering using slicers (Year, City, Restaurant)
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](executive_overview.png)
+
+### Customer Behavior
+![Customer Behavior](customer_behavior.png)
+
+### Drill Down Analysis
+![Drill Down](drilldown_analysis.png)
 
 ## Key Insights
 
